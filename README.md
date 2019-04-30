@@ -1,6 +1,6 @@
 
 
-# Bon-Appetit!
+# RN-Appetit-App!
 
 ![Preview-Screens](https://github.com/steniowagner/bon-appetit-app/blob/master/images/default.png)
 
