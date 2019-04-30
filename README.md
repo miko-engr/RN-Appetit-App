@@ -4,7 +4,7 @@
 
 ![Preview-Screens](https://github.com/steniowagner/bon-appetit-app/blob/master/images/default.png)
 
-If you want to take a look on all screens of the App, they are [here](https://github.com/steniowagner/bon-appetit-app/tree/master/images).
+If you want to take a look on all screens of the App, they are [here](https://github.com/JSAdmin/RN-Appetit-App/tree/master/images).
 
 ## About this Project
 
