@@ -14,18 +14,6 @@ _"Show differents options of restaurants, dishes and gastronomic events in the c
 
 **PS:** There's a big market behind this context, and that can be extended to other areas (like music, parties, etc), and I'll be so glad if you could find any idea based on this project to build your own business!
 
-## Why?
-
-This project is part of my personal portfolio, so, I'll be happy if you could provide me any feedback about the project, code, structure or anything that you can report that could make me a better developer!
-
-Email-me: stenio.wagner1@gmail.com
-
-Connect with me at [LinkedIn](https://www.linkedin.com/in/steniowagner/)
-
-Also, you can use this Project as you wish, be for study, be for make improvements or earn money with it!
-
-It's free!
-
 ## Some Observations about this App
 
 1 - All the data abount dishes, gastronomic events and restaurants that is showed in the App are mocked by me, and they don't exists in the real world. The files that contains all data that it's displayed in the App are stored on the [back-end of the app](https://github.com/steniowagner/bon-appetit-server/tree/master/src/json-models).
